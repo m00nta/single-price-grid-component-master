@@ -38,18 +38,13 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Tailwind CSS framework
+- [Tailwind CSS Framework](https://tailwindcss.com/) - For styles
 - Flexbox
 - CSS Grid
 
-- [Tailwind CSS Framework](https://tailwindcss.com/) - For styles
-
 ### What I learned
 
-I learned how to setup the tailwind CLI framework.
-I learned how to work with different Tailwind classes and utilities.
-I learned how to work with responsive utilities in Tailwind CSS.
-I learned how to customize the config file so I can add custom colors and fonts.
+I learned how to setup the tailwind CLI framework then how to work with different Tailwind classes and utilities and work with responsive utilities. Lastly I learned how to customize the config file so I can add custom colors fonts and responsive units.
 
 ```js
 module.exports = {
@@ -93,7 +88,7 @@ I want to continue working with TailwindCSS Framework and learn how to customize
 
 ### Useful resources
 
-- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation) - This helped me get setup quickly with Tailwind and there is hundreds of pages here. However it's easy to accept by searching.
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation) - This helped me get setup quickly with Tailwind and there is hundreds of pages, However it's easy to get the information by searching css properties.
 
 ## Author
 
